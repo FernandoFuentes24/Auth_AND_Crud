@@ -1,4 +1,4 @@
-# 🚀 Proyecto Laravel - Sistema de Gestión con authentificacion utilizando breeze y crud de mantenimiento de proyectos
+# 🚀 Proyecto Laravel - Sistema de Gestión con authentificacion utilizando breeze y crud de mantenimiento de proyectos, generando informes con barryvdh/laravel-dompdf
 
 Este es un sistema de gestión desarrollado con **Laravel 11** y **MySQL**.
 
