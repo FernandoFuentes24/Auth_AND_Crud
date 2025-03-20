@@ -1,4 +1,4 @@
-# 🚀 Proyecto Laravel - Sistema de Gestión con auth y crud de proyectos
+# 🚀 Proyecto Laravel - Sistema de Gestión con authentificacion utilizando breeze y crud de mantenimiento de proyectos
 
 Este es un sistema de gestión desarrollado con **Laravel 11** y **MySQL**.
 
@@ -14,7 +14,7 @@ Este es un sistema de gestión desarrollado con **Laravel 11** y **MySQL**.
 ```sh
 git clone https://github.com/FernandoFuentes24/Auth_AND_Crud.git
 
-cd PRACFINAL
+cd Auth_AND_Crud
 ```
 ### 2️⃣ Instalar dependencias
 ```sh
