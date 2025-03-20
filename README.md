@@ -12,8 +12,8 @@ Este es un sistema de gestión desarrollado con **Laravel 11** y **MySQL**.
 
 ### 1️⃣ Clonar el repositorio  
 ```sh
-git clone https://github.com/FernandoFuentes24/
-cd mi-proyecto-laravel
+git clone https://github.com/FernandoFuentes24/Auth_AND_Crud.git
+cd PRACFINAL
 
 2️⃣ Instalar dependencias
 composer install
