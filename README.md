@@ -1,4 +1,4 @@
-# 🚀 Proyecto Laravel - Sistema de Gestión
+# 🚀 Proyecto Laravel - Sistema de Gestión con auth y crud de proyectos
 
 Este es un sistema de gestión desarrollado con **Laravel 11** y **MySQL**.
 
@@ -11,15 +11,15 @@ Este es un sistema de gestión desarrollado con **Laravel 11** y **MySQL**.
 ## ⚙️ Instalación y Configuración
 
 ### 1️⃣ Clonar el repositorio  
-```sh
+
 git clone https://github.com/FernandoFuentes24/Auth_AND_Crud.git
 cd PRACFINAL
 
-2️⃣ Instalar dependencias
+### 2️⃣ Instalar dependencias
 composer install
 npm install && npm run build
 
-3️⃣ Configurar variables de entorno
+### 3️⃣ Configurar variables de entorno
 Copiar el archivo .env.example y renómbralo a .env:
 
 Editar el .env y configura la base de datos:
@@ -30,9 +30,9 @@ DB_DATABASE=mi_base_de_datos
 DB_USERNAME=root
 DB_PASSWORD=tu_contraseña
 
-5️⃣ Ejecutar migraciones y seeders
+### 5️⃣ Ejecutar migraciones y seeders
 
 php artisan migrate --seed
 
-6️⃣ Levantar el servidor
+### 6️⃣ Levantar el servidor
 php artisan serve
